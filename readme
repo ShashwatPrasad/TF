@@ -1,2 +1,5 @@
  ##### Download Terraform from from Github###########
  wget https://github.com/ShashwatPrasad/TF/blob/main/terraform_1.2.3_linux_amd64.zip
+ 
+ ########### Terraform Bundle#############
+ https://harishkm.in/2020/09/18/use-pre-installed-terraform-plugins-instead-of-downloading-them-with-terraform-init/
