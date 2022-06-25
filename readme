@@ -3,3 +3,5 @@
  
  ########### Terraform Bundle#############
  https://harishkm.in/2020/09/18/use-pre-installed-terraform-plugins-instead-of-downloading-them-with-terraform-init/
+ #############Download Provider#################
+ https://releases.hashicorp.com/
