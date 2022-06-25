@@ -1,0 +1,2 @@
+ ##### Download Terraform from from Github###########
+ wget https://github.com/ShashwatPrasad/TF/blob/main/terraform_1.2.3_linux_amd64.zip
